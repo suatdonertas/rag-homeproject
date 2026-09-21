@@ -1,0 +1,34 @@
+About the job
+Your Role
+
+As a Data & AI Delivery Lead, you drive the data and AI agenda at our most important clients. You sit at the intersection of business ambition and technical reality: shaping the vision, owning the roadmap, and leading the teams that turn it into working solutions. You are the senior trusted advisor clients lean on to make sense of their data and AI opportunities, and the delivery owner accountable for turning those opportunities into measurable value at scale.
+
+Data and AI are equally at the heart of this role. Depending on the client and the engagement, you may lead the build of a modern data platform, the modernization of an analytics landscape, or the delivery of AI solutions, from classic machine learning through to Generative and Agentic AI. You help clients separate hype from value, identify the opportunities worth pursuing, and deliver them on top of solid, trustworthy data foundations.
+
+You are not a hands-off strategist. You bring genuine data architecture depth, enough to challenge a data model, question a platform choice, or steer an AI use case toward something feasible. Your credibility comes from knowing what you are talking about, while your impact comes from mobilizing people, decisions, and delivery around a shared agenda.
+
+Key Responsibilities
+
+
+Driving the Data & AI Agenda: Partner with senior business and IT leaders to define a clear, prioritized roadmap for data, analytics, and AI. You translate strategic ambition into a sequence of deliverable outcomes and keep stakeholders aligned on what matters and why.
+Shaping Data & AI Solutions: Identify and prioritize high-value opportunities across the spectrum, from data platforms and analytics modernization to AI and Generative AI use cases, separating genuine value from hype and guiding clients on responsible, scalable adoption.
+Owning Delivery End-to-End: Take accountability for the full lifecycle of data and AI solutions, from shaping and scoping through delivery and adoption, ensuring they meet client needs and deliver real, measurable value at scale.
+Leading Multidisciplinary Teams: Lead and orchestrate architects, data engineers, AI/ML engineers, and analysts across one or more delivery streams. You set direction, remove blockers, and create the architectural context the team needs to succeed in an Agile/Scrum environment.
+Architectural Stewardship: Guard the integrity of the solution. Review and challenge data models (conceptual, logical, physical), platform and integration choices, and AI architectures to ensure they are scalable, sound, and fit for purpose, without owning every detail yourself.
+Advising at the Top Table: Act as a senior trusted advisor to client leadership, including C-suite. Help them understand trade-offs around data platforms, governance, and AI adoption, and guide them toward decisions they can stand behind.
+Embedding Governance & Responsible AI: Ensure quality, privacy, security, and compliance are designed into solutions from the start, partnering with governance specialists so that data and AI are trustworthy, responsible, and ready for regulatory scrutiny.
+Connecting Value to Outcomes: Keep delivery anchored to business value by defining success criteria, tracking adoption, and demonstrating the impact of data and AI investments to stakeholders.
+
+
+Your Background
+
+
+Education: Bachelor's or Master's degree in a relevant field (Computer Science, Engineering, Information Management, or similar).
+Experience: 8+ years in data architecture, data engineering, or data & AI delivery, including a strong track record of leading teams or delivery streams and owning client outcomes, ideally in a consulting or project-based environment.
+Architecture Depth: Solid hands-on grounding in data architecture and modeling (conceptual/logical/physical) and modern data platforms (Snowflake, Databricks, Azure Synapse/Fabric, or equivalent). You can go deep enough to challenge technical decisions credibly.
+Data & AI Fluency: Strong command of the modern data and AI landscape, spanning data platforms, pipelines, analytics, machine learning, and Generative/Agentic AI, enough to shape high-value solutions across both data and AI and guide clients on what is genuinely feasible.
+Delivery Leadership: Proven ability to lead complex delivery in Agile/Scrum settings, manage multidisciplinary teams, and own outcomes end-to-end. Product Owner, Scrum Master, or architecture certifications are highly valued.
+Stakeholder Influence: Confident engaging and influencing senior stakeholders, from C-suite executives to engineering teams, and translating fluidly between business and technical audiences.
+Governance Awareness: Familiarity with data governance, security, and privacy principles, and with tools such as Collibra or Alation.
+Communication: A bilingual or trilingual profile (English + Dutch/French) with strong advisory and storytelling skills.
+Consultancy DNA: A genuine consulting mindset is essential. You are comfortable working across different clients and contexts, adapt quickly to new environments, build trusted relationships, and represent Accenture with professionalism and drive.

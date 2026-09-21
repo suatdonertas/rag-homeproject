@@ -1,0 +1,48 @@
+About the job
+Joining KPMG Lighthouse as an architect offers the opportunity to work at the intersection of strategy and execution, shaping how organizations leverage data and technology to achieve their goals. This role sits within a modern, forward‑looking environment and is part of a diverse, multidisciplinary community of more than 60 data‑ and AI‑driven professionals with a strong entrepreneurial mindset.The position provides ample opportunity to grow, learn, and make a meaningful impact across industries.
+What will you do
+Architecture & Strategy
+Translate operational and regulatory‑driven business objectives into a clear and coherent data and/or AI architecture vision.
+Define data foundations required for traditional and advanced AI solutions, considering data availability, quality standards, entity resolution, lineage, and fitness‑for‑purpose assessments across data domains.
+Define architecture principles and guardrails to guide teams and ensure alignment across projects and products, with attention to platform standards, security controls, model versioning, and governance checkpoints for consistent and auditable delivery.
+Design and maintain scalable, secure solutions supporting both batch and near‑real‑time business processes.
+
+Data Architecture Focus
+Develop target solution architectures and manage technical reference models and standards.
+Design data landscapes, data platforms, and reporting and analytics components.
+Define standards for data management and governance, including metadata, data quality, lineage, and master data management (MDM).
+
+Data Science Focus
+Lead the development of traditional supervised and unsupervised models for use cases such as clustering, anomaly detection, peer group analysis, and behavioral change detection.
+Design model explain-ability and configuration to support operational use and ensure compliance in regulated environments.
+Oversee model and solution validation, performance tracking, and controlled deployment, including the design of monitoring frameworks to detect model drift over time.
+
+Delivery Lead Focus
+Manage delivery milestones across data, modeling, and integration workstreams, ensuring clear progress visibility for stakeholders.
+Act as the primary technical point of contact, translating complex technical concepts into clear and credible narratives for non‑technical audiences.
+Support and mentor junior data scientists, engineers, and architects by providing direction, review, and guidance while enabling autonomy and team scalability.
+
+Clients & Projects Focus
+Work on a combination of short‑term assignments and long‑term transformation programs, ranging from rapid architecture assessments to multi‑year engagements.
+Contribute to data platform design, data governance, analytics architecture, and enterprise architecture initiatives.
+
+What do you need
+Minimum of 6 years’ experience in a technical role with a strong focus on data or AI (e.g. data scientist, data engineer, or data architect).
+Experience delivering solutions for regulated business processes such as KYC, transaction monitoring, or similar domains.
+Proven experience designing or contributing to data architectures for analytical or AI workloads (e.g. data lakes, feature stores, cloud‑based data and ML/AI platforms).
+Practical experience operationalizing models, including development, deployment, monitoring, and maintenance in production environments.
+Solid technical understanding of generative AI technologies, including large language models (LLMs), vector embeddings, and retrieval‑augmented generation (RAG).
+Strong analytical thinking combined with a solution‑oriented and creative problem‑solving mindset.
+Ability to communicate complex technical topics clearly to both technical and non‑technical audiences.
+Proactive, accountable, and motivated, with the ability to guide and inspire others.
+Strong business acumen and confidence in client‑facing contexts.
+Fluency in Dutch and English; knowledge of French is considered an asset.
+
+What can you expect
+A competitive remuneration package including a premium electric company car with charging card, net daily and monthly allowances, bonus, smartphone, and a flexible cafeteria plan.
+Flexible work arrangements supporting a healthy work‑life balance, including remote working options and the possibility to work from anywhere up to 20 days per year.
+A comprehensive insurance package, including group insurance fully funded by KPMG, hospitalization insurance, and optional outpatient coverage (dental, eye care, medical consultations, and prescribed medication).
+Continuous career development opportunities supported by targeted training aligned with personal goals and ambitions.
+An inclusive and international working culture that values personal growth, mutual trust, and lifelong learning.
+Structured support through a buddy system and a dedicated performance manager.
+Access to team‑building activities, sports initiatives, and wellbeing events through Together@KPMG and the KPMG Foundation.

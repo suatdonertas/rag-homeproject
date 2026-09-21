@@ -1,0 +1,24 @@
+About the job
+Functieomschrijving
+
+As an AI & Data Solution Architect, you design and shape future-proof data and AI solutions that translate business ambitions into robust, scalable architectures. You act as a bridge between business stakeholders and engineering teams, ensuring pragmatic delivery today while building the architectural foundations for tomorrow.
+
+You contribute actively to the evolution of a modern, cloud-based data platform at the heart of our Data & Analytics domain, where data maturity is strong and there is still room to think freely, challenge ideas and help shape the way forward.
+
+What You’ll Do
+
+Design and implement secure, scalable and efficient data, BI and AI solutions aligned with business needs.
+Elaborate and evolve data product architectures on a modern cloud-based data platform.
+Translate high-level and evolving business needs into concrete solution designs using architectural blueprints.
+Support engineering teams throughout analysis and delivery, safeguarding solution quality end to end while keeping the right balance between technical depth and architectural overview.
+Automate data management processes and help bring computational data governance into practice in a pragmatic and iterative way.
+Document and justify key choices through Architecture Decision Records (ADRs), ensuring transparency and traceability.
+
+What You Bring
+
+You have 4+ years of experience in solution architecture and 7+ years designing enterprise-scale data solutions, or you bring strong potential, interest and eagerness to grow in the data and platform domain.
+You are strong in data warehousing and lakehouse architectures, data modelling and data product design.
+You are fluent in advanced SQL and Python and experienced with data integration patterns such as batch, CDC, streaming and APIs.
+You bring hands-on experience with cloud data platforms on AWS, CI/CD and Infrastructure as Code.
+You have solid exposure to AI/ML, MLOps and GenAI architectures, including LLMs, vector stores and retrieval patterns.
+You combine an agile, analytical and pragmatic mindset with strong communication, stakeholder management and facilitation skills. You can zoom in and zoom out, challenge stakeholders when needed and ask for clarification when something is not clear.

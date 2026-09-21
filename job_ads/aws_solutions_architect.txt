@@ -1,0 +1,30 @@
+About the job
+Description
+
+Our purpose is to be the trusted advisors and thought leaders who enable Public Sector customers to succeed in their missions. We earn trust by listening to our customers, prioritizing their needs, and delivering value so they can make well-informed decisions and create a better world.
+
+Are you a passionate technologist who enjoys working with public sector customers and who can influence and drive innovation using innovative technology? Do you have a knack for helping groups understand application architectures and integration approaches, and the consultative and leadership skills to launch a project on a trajectory to success? Would you like to be part of a sales group, but have your opinion valued as a technical resource as part of planning and strategies?
+
+AWS is looking for a Solutions Architect to join our thriving technical community and growing business as part of our Benelux Public Sector team based in Brussels, Belgium. You will join a friendly and supportive team, serving the unique needs of our Public Sector customers in Belgium, Netherlands, and Luxembourg.
+
+As an AWS Solutions Architect, you will have ownership of the technical relationship with customers, making recommendations on security, cost, performance, reliability, operational efficiency and best-practice architectures.
+
+Internally, you will be an advocate acting on behalf of the customer to help drive continual improvements to the AWS platform, sharing their needs and wants to inform the roadmap of AWS features and services.
+
+In this role, your creativity will link technology to tangible solutions, with the opportunity to implement or document cloud-native reference architectures with the AWS Solutions Architect community.
+
+You will participate in the creation and sharing of recommended practices, technical content and new reference architectures (e.g. white papers, code samples, blog posts) and evangelise and educate about AWS technology (e.g. through workshops, user groups, meetups, public speaking, online videos or conferences).
+
+We seek candidates from all backgrounds to join our teams, and we encourage our employees to bring their authentic, original, and best selves to work.
+
+Key job responsibilities
+
+ Own the technical engagement and ultimate success around specific business initiatives and projects. You should (learn to) understand the wider industry, with experience and skill in how applications and services are delivered and consumed.
+ Develop a deep expertise in AWS technologies.
+ Consult on and provide leadership for the broad AWS cloud strategy in public sector organisations.
+ You will help customers articulate and navigate their cloud journey, and be accountable for ensuring tactical activities and point projects are align with the overall technical strategy.
+ Exhibit leadership within a very sophisticated IT landscape and become the trusted advisor to different stakeholders in the customer’s organisation’s hierarchy. Enable others to become cloud champions!
+ Be a thought leader, comfortable with speaking in public. Conduct one-to-few and one-to-many sessions to transfer knowledge to customers considering or already using AWS.
+ Capture and share best-practice knowledge amongst the AWS architecture community, including authoring or otherwise contributing to AWS customer-facing assets such as whitepapers, blogs, code, and sample architectures.
+ Act as a technical liaison between customers, engineering teams and support.
+ Demonstrate the "art of the possible" using demonstrations and proof-of-concept code.

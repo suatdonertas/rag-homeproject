@@ -1,0 +1,22 @@
+About the job
+Make your mark for patients 
+We are looking for a Patient Supply Data Architecture Lead who is strategic, decisive, and collaborative to join our Patient Supply Digital Transformation team, based at our UCB campus in Braine‑l’Alleud, Belgium.
+About the role:In this role, you will shape the future of Patient Supply data at UCB. You will define, govern, and evolve the end‑to‑end data architecture that underpins analytics, automation, and AI at scale. You are going to act as the architectural authority, ensuring data products are coherent, scalable, compliant, and future‑proof. You will balance immediate delivery needs with long‑term sustainability, enabling trusted insights across domains in a highly regulated environment.
+Who you will work with:You will work closely with Data Product Leads, Data Governance, Analytics and AI Product Leads, and Digital Technology teams within the Data Foundations Hub. You are going to collaborate across Patient Supply transformation initiatives, acting as a trusted architecture advisor and enabling alignment across domains in a global, matrix organization.
+What you will do :
+You will define, own, and evolve the end‑to‑end Patient Supply data architecture.
+You will own the unified data model and ensure consistency across domains and data products.
+You will act as final authority on data modelling and architectural design decisions.
+You will ensure data products are analytics‑ and AI‑ready by design.
+You will embed compliance, traceability, and auditability into data architecture.
+You will guide teams to prevent fragmentation and promote architectural reuse.
+
+Interested? For this role, we are looking for the following education, experience, and skills:
+Bachelor’s or Master’s degree in a relevant field.
+Deep experience in data architecture and enterprise‑scale data modelling.
+Proven experience in GxP‑regulated pharmaceutical or life sciences environments.
+Strong understanding of data integrity, compliance, and traceability principles.
+Ability to influence and align stakeholders without formal authority.
+Excellent communication skills with both technical and non‑technical audiences.
+
+Are you ready to ‘go beyond’ to create value and make your mark for patients? If this sounds like you, then we would love to hear from you!

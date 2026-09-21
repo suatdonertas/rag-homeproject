@@ -1,0 +1,97 @@
+About the job
+Job Description
+
+How do you help make a difference?
+
+As a Technical Architect within Integration Services of Infrastructure team, you play a key role in shaping and evolving the organization’s integration landscape. You are responsible for driving the technical vision, governance, and continuous improvement of integration technologies, ensuring they meet current and future business needs.
+
+You work across a diverse ecosystem of integration platforms, including message brokers, event streaming, API management, and managed file transfer solutions (e.g., MQ, Kafka, Axway, AMQP Broker, API Platform).
+
+Reporting to the Team lead of Integration Services
+
+What is your role at SNCB?
+
+As a Technical Architect you will take on the following key responsibilities:
+
+Architecture & Strategy
+
+Define and maintain the target architecture for Integration Services.
+Design and evolve integration building blocks to support business projects.
+Maintain and update technology roadmaps for both existing and emerging integration solutions.
+Ensure alignment with enterprise architecture standards and long-term IT strategy.
+
+Technology Evolution & Innovation
+
+Research, evaluate, and recommend new integration technologies and patterns.
+Support the evolution of existing platforms (e.g., performance, scalability, security improvements).
+Drive adoption of modern integration paradigms such as event-driven architecture and API-first design.
+
+Governance & Processes
+
+Contribute to and improve internal processes and standards within Integration Services.
+
+Delivery Support
+
+Support project teams in selecting and implementing appropriate integration solutions.
+Collaborate with development, operations, and security teams to ensure robust solutions.
+
+Continuous Improvement
+
+Identify opportunities to optimize integration services and reduce complexity.
+Enhance reusability and standardization of integration components.
+Monitor industry trends and incorporate relevant innovations.
+
+Job Requirements
+
+Why is this job a good fit for you?
+
+Technical Expertise
+
+At least 5 years of relevant experience as Technical Architect
+Strong experience with integration technologies such as:
+Messaging systems (e.g., MQ, AMQP)
+Event streaming platforms (e.g., Kafka)
+API management platforms (e.g., Axway Amplify)
+Managed file transfer tools (e.g., Sterling)
+Solid understanding of:
+Integration patterns (request/reply, pub/sub, event-driven)
+Microservices and distributed systems
+Security protocols (OAuth, TLS, etc.)
+Experience with cloud and hybrid integration architectures is a plus
+Experience in Infrastructure as Code and Kubernetes is a plus
+Architecture & Design
+
+Proven experience in solution and/or enterprise architecture
+Ability to design scalable, resilient, and maintainable integration solutions
+Familiarity with architecture frameworks and modeling techniques
+
+Soft Skills
+
+Strong analytical and problem-solving skills
+Ability to influence and guide stakeholders across teams
+Excellent communication and documentation skills
+Proactive mindset with a focus on continuous improvement
+Good knowledge of English and Dutch or French (preferably with at least a passive knowledge of the second language)
+
+Everyone is unique. That's why we believe it’s important that you can be yourself — it makes SNCB/NMBS stronger. We therefore place great value on diversity and inclusion.
+
+What can you expect from us?
+
+Benefits
+
+Within our open corporate culture, you contribute to the digital transformation of SNCB/NMBS. You will have a job with social impact and ample opportunity to make your own contribution. In addition to a good work-life balance and a competitive salary, you will receive the following benefits:
+
+the possibility to work remotely + flexible working hours;
+35 days of leave;
+a company car + a public transport season ticket;
+a target bonus;
+a comprehensive insurance package (affiliation without own contribution, excl. outpatient costs for family members);
+hospitalisation and dental care for the whole family;
+outpatient costs (= medical costs separate from hospitalisation);
+group insurance: supplementary pension, work disability and death (cafeteria plan);
+accidents at work (extralegal);
+meal vouchers and eco-vouchers;
+net allowances for remote working and carwash + internet budget.
+Where will you be working?
+
+You will work near Brussels-South station.

@@ -1,0 +1,23 @@
+About the job
+Make your mark for patients We are looking for a Digital Technology Lead Forward Deployed AI Engineer who is curious, pragmatic and innovative to join us in our Technology Strategy & Solutions team, based in our HQ office in Brussels, Belgium.
+About The RoleYou will bridge business transformation and technology engineering, working directly alongside strategic initiatives to identify high-value opportunities and rapidly turn them into working solutions. You will immerse yourself in business domains, working closely with stakeholders to understand problems firsthand and translate them into practical technology solutions. You will translate ambiguous business problems into technically actionable concepts, challenge assumptions and pinpoint where technology can make the biggest difference. Acting as the technical lead on complex, novel initiatives, you will design, build and iteratively refine prototypes, prompts, integrations, workflows and application logic, making pragmatic decisions even when information is incomplete. The learnings from your work will feed directly into our broader engineering practices and platform roadmap, helping successful solutions scale into reusable enterprise capabilities.
+Who You'll Work WithYou will be working in a team that shapes how technology strategy translates into real, working solutions across the organization. You will often operate as an embedded engineer within business initiatives, working directly with end-users and domain experts to rapidly validate ideas and deliver working solutions. You will partner closely with domain teams to ensure new solutions contribute to a coherent, sustainable technology portfolio, and work hand in hand with solution leads to shape the right approach for each initiative. You will collaborate with our responsible technology office to ensure compliance and governance standards are met, and engage with platform teams to help influence future capabilities. You will also connect with enterprise architecture colleagues to make sure your solutions fit within the wider technology landscape and follow sound architectural principles.
+What You'll Do
+Conduct rapid discovery of technology opportunities together with business and transformation teams
+Translate ambiguous business problems into technically actionable solution concepts
+Embed directly with business and transformation teams to rapidly iterate on solutions, validate assumptions, and solve real-world problems through engineering
+Act as technical lead and hands-on engineer for complex, novel or first-of-a-kind technology initiatives
+Design and build prototypes, proofs of concept and production-ready solution components, including code, prompts, integrations, workflows and application logic
+Identify reusable patterns and components emerging from field engagements and feed learnings back into engineering
+Partner with domain, platform and architecture teams to keep solutions aligned and scalable
+Contribute to enterprise standards, best practices and engineering methodologies 
+
+Interested? For this role we're looking for the following education, experience and skills 
+Bachelor's degree in computer science, engineering or a related technical field
+5+ years of experience in software engineering or data analytics
+Experience building and deploying advanced technology solutions in complex enterprise environments
+Track record of solving technically challenging problems involving integrations, architecture or data
+Experience moving solutions from proof of concept to production-grade implementation
+Comfortable operating in ambiguous environments where requirements and technologies evolve quickly
+Strong problem-solving skills, breaking down complex challenges into practical, working solutions
+Strong software engineering skills and demonstrated ability to independently build working solutions, including applications, integrations, automation and AI-powered workflows 
